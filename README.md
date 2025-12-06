@@ -27,14 +27,21 @@ The UI was fully designed & customized in the **CometChat UI Kit Builder**, expo
 ## 📸 Screenshots  
 (Add your screenshots below)
 
-- Login Screen  
-- Chat Window  
-- Groups View  
-- Calls Tab  
-- Users Tab  
+
+- Login Screen
+- <img width="1919" height="910" alt="login png" src="https://github.com/user-attachments/assets/c453e207-4bd5-40cd-a301-4fbe2abbb266" />
+- Chat Window
+- <img width="877" height="905" alt="chat png (2)" src="https://github.com/user-attachments/assets/9a458832-3b00-463d-9a29-db8f1640fcba" />
+- Groups View
+- <img width="1916" height="906" alt="group png" src="https://github.com/user-attachments/assets/e0d97694-a7b3-4a49-b3ca-d2b34fdb47eb" />
+- Calls Tab
+- <img width="1919" height="913" alt="call png" src="https://github.com/user-attachments/assets/3e456a82-7d09-4fcd-9ee5-ddefd1710da2" />
+- Users Tab
+- <img width="1919" height="911" alt="user png" src="https://github.com/user-attachments/assets/b31c5f72-6076-4311-9cc5-ca75d3a2e08f" />
 - UI Kit Builder Theme Editor  
 
----
+-<img width="1906" height="976" alt="ui png" src="https://github.com/user-attachments/assets/34e6ea13-8e6d-4632-ae7d-27c9526c8566" />
+
 
 # 🔍 Findings & Issues Identified
 
